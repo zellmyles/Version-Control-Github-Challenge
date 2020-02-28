@@ -1,0 +1,6 @@
+1. The terminal is a program or emulator that provides a text-based interface for typing commands.
+
+2. The key difference between Git and Github is that Git is an open-source tool developers install locally to manage source code, while Github is an online service that developers who use Git can connect and upload or download resources.
+
+3. Github is a code hosting platform for version control and collaboration.
+
